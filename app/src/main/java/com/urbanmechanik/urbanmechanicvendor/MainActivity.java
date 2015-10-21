@@ -16,7 +16,7 @@ import android.view.MenuItem;
 
 public class MainActivity extends AppCompatActivity {
 
-    public static String URL = "http://192.168.0.101:3000/";
+    public static String URL = "http://52.27.180.16:3000/";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
