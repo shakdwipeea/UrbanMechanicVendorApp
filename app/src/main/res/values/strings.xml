@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Urban Mechanic Vendor</string>
+    <string name="action_settings">Settings</string>
+    <string name="password">Password</string>
+    <string name="email">Username</string>
+    <string name="log_in">Log In</string>
+    <string name="saved_token"></string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_user_name">k@in.com</string>
+    <string name="default_password">admin</string>
+    <string name="shared_prefs_file_key">com.urbanmechanik.preference_file_key</string>
+
+    <string-array name="booking_status_values">
+        <item>pending</item>
+        <item>processing</item>
+        <item>done</item>
+    </string-array>
+</resources>
